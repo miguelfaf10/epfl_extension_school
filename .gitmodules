@@ -1,3 +1,3 @@
 [submodule "introduction_project"]
-	path = introduction_project
+	path = 1_introduction_project
 	url = git@github.com:epfl-extension-school/project-adsml-ibex-c1-s11-6924-3942.git
