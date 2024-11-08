@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://learn.extensionschool.ch/
+HostUrl=https://exts-resources-production.s3.eu-central-1.amazonaws.com/adsml-ibex/c4_cifar10-6k.npz?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQMQVY5I3U6IZUMMS%2F20241104%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20241104T154305Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=84c84589f57462e0129bed9b847314924995158abdf66edbf07675feffafc850
